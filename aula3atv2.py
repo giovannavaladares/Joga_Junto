@@ -15,6 +15,6 @@ soma = n1 + n2
 
 print(f" O nome é: {nome} {sobrenome} a primeira nota é {n1} e a segunda é {n2} a minha nota geral é {soma}"
 # print('meu nome é {a}, meu sobrenome é {b}'.format(a=nome,b=sobrenome) )
-# print(f'meu nome é {nome}, meu sobrenome é {sobrenome}' )
+ # print(f'meu nome é {nome}, meu sobrenome é {sobrenome}' )
 
 # print("Olá," + nome + sobrenome + ". Em " + mes + " você realizou uma compra no valor de R$" + valor + " e ganhou um desconto de " + desconto +  "% em sua próxima compra. Use o cupom " + nome + "É" + desconto + " .")
