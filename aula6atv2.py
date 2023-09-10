@@ -9,8 +9,6 @@ print('-'*30)
 # resultado tabuada #
 
 print(f'TABUADA DE {numero}')
-
-## ?????? ver com o matheus ## 
 print('-'*30)
 
 for i in range (1,11): 
