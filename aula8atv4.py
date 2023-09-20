@@ -12,7 +12,5 @@ def define_frete(cep):
 
         return "Cliente não elegivel para frete grátis"
 
-cep = int(input("Digite seu CEP: "))
-
 resultado = define_frete(cep)
 print(resultado)
