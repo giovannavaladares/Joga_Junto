@@ -1,5 +1,5 @@
 ***Array***
-Em Python, não há uma estrutura de dados chamada "array" no sentido tradicional.
+Em Python, não há uma estrutura de dados chamada "array" no sentido tradicional. 
 Em vez disso, você usa listas para criar uma coleção de elementos.
 
 - Não é um tipo de dados nativo em Python.
